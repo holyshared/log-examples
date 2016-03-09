@@ -1,0 +1,7 @@
+[package]
+name = "log-examples"
+version = "0.1.0"
+authors = ["Noritaka Horio <holy.shared.design@gmail.com>"]
+
+[dependencies]
+log = "0.3.5"
